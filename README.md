@@ -6,13 +6,13 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 
-### Step1 : Characteristic equation (exact method)
+### Step1 : Import the NumPy library.
 
-### Step 2: Power iteration (largest eigenvalue)
+### Step 2: Create and store the matrix A.
 
-### Step 3: Inverse iteration (smallest eigenvalue)
+### Step 3: Compute the eigenvalues and eigenvectors using np.linalg.eig().
 
-### Step 4: QR method (efficient for computation)
+### Step 4: Display the eigenvalues and eigenvectors.
 
 ## Program:
 ```python
